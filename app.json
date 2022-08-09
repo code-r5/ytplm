@@ -6,7 +6,7 @@
   "keywords": ["VPS", "yptlm", "Ytplm", "Firefox", "novnc", "VNC", "anycloud", "cloud-downloader", "rclone-backdoor", "index-backdoor", "rclone", "index"],
 
   "website": "",
-  "repository": "https://github.com/code-r5/ytplm",
+  "repository": "",
   "stack": "container"
  }
 
